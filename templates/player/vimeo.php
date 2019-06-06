@@ -19,7 +19,10 @@
 	$(document).ready(function(){
 		
 		// create video player
-		const videoPlayer = new Plyr(document.querySelector('.pjs-mm-video .video'));
+		const videoPlayer = new Plyr(document.querySelector('.pjs-mm-video .video'), {
+			fullscreen: {iosNative:true},
+			settings: ['captions', 'quality', 'loop'],
+		});
 		
 		// pause video player
 		$('.pjs-mm-video .wrapper .links .show-audio').click(function(){

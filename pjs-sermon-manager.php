@@ -3,7 +3,7 @@
  * Plugin Name: PJS Media Manager
  * Plugin URI: https://www.plainjoestudios.com/
  * Description: Manage your media and display them elegantly on your website.
- * Version: 1.1.5
+ * Version: 1.1.7
  * Author: PlainJoe Studios
  * Author URI: https://www.plainjoestudios.com/
  * License: GPLv2 or later

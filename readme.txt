@@ -19,7 +19,14 @@ At a glance, this plugin does the following:
 
 == Changelog ==
 
+= 1.1.7 =
+* Updated videos to play native in iOS and removed speed setting.
+
+= 1.1.6 =
+* Updated Vimeo and YouTube videos to play native instead of using PLYR.
+
 = 1.1.5 =
+* Cleaned up code and naming conventions.
 * Updated podcast settings to appear on the PJS Media > Settings page.
 * Updated podcast page to correctly display data depending on URL.
 * Updated settings fields.
