@@ -1,2 +1,2 @@
 # pjs-media-manager
-Wordpress plugin for managing and displaying media.
+WordPress plugin for managing and displaying media.
